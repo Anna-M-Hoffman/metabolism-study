@@ -1,7 +1,7 @@
 # Interactive Biochemistry Diagrams Web App
 
 **Project:** Interactive Diagrams for Metabolic Pathways  
-**Website:** https://anna-m-hoffman.github.io/metabolism_study/
+**Website:** https://anna-m-hoffman.github.io/metabolism-study/
 
 ## Overview
 
@@ -63,6 +63,6 @@ Built with **Mermaid.js**, this project features clickable nodes, study modes, a
 ---
 
 ## Contact
-For more information or live demo: https://anna-m-hoffman.github.io/metabolism_study/
+For more information or live demo: https://anna-m-hoffman.github.io/metabolism-study/
 
 Contact Email: annahoffman700@gmail.com
